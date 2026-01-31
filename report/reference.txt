@@ -1,0 +1,3 @@
+Gupta, S. (2024).
+Physics-Informed Neural Networks for 2D Incompressible Navier–Stokes Equations.
+GitHub Repository: https://github.com/Soham7Gupta/PINN_Fluids

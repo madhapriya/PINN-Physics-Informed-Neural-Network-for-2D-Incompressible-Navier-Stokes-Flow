@@ -1,0 +1,9 @@
+Reference PINN Performance Metrics
+---------------------------------
+Reported R² scores at t = 3.1:
+
+u-velocity  : 0.999838
+v-velocity  : 0.999824
+pressure    : 0.998052
+
+Source: Reference implementation (Soham Gupta, 2024)
